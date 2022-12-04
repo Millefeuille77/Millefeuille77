@@ -31,7 +31,7 @@
 - **Softwares and Tools**:
     
     ![VisualStudioCode](https://img.shields.io/badge/visual_stuido_code-%234285F4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Azure](https://img.shields.io/badge/Azure_ML-0078D7?style=for-the-badge&logo=azure-ml&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure_ML-0078D7?style=for-the-badge&logo=azureml&logoColor=white)
     ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
     ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
  <br><br>
